@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\pl\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|solutionrelative:gestion_dons\\pl\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|c:\\users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\pl\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|solutionrelative:gestion_dons\\pl\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\pl\\usr_list_dons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|solutionrelative:gestion_dons\\pl\\usr_list_dons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|c:\\users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\pl\\usr_list_dons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|solutionrelative:gestion_dons\\pl\\usr_list_dons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|c:\\users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\pl\\usr_list_besoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|solutionrelative:gestion_dons\\pl\\usr_list_besoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|c:\\users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\pl\\usr_list_utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|solutionrelative:gestion_dons\\pl\\usr_list_utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|c:\\users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\pl\\usr_list_utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|solutionrelative:gestion_dons\\pl\\usr_list_utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|c:\\users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\bl\\conbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|solutionrelative:gestion_dons\\bl\\conbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|c:\\users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\gestion_dons.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|solutionrelative:gestion_dons\\gestion_dons.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\pl\\ajoutmodifieruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|solutionrelative:gestion_dons\\pl\\ajoutmodifieruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|c:\\users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\pl\\ajoutmodifieruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|solutionrelative:gestion_dons\\pl\\ajoutmodifieruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\pl\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|solutionrelative:gestion_dons\\pl\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|c:\\users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\pl\\ajoutmodifieruser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|solutionrelative:gestion_dons\\pl\\ajoutmodifieruser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|c:\\users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\pl\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|solutionrelative:gestion_dons\\pl\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|c:\\users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\gestion_dons.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|solutionrelative:gestion_dons\\gestion_dons.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|c:\\users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\pl\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|solutionrelative:gestion_dons\\pl\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|c:\\users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE218CD-E327-4ABA-91E8-73938908C203}|gestion_dons\\gestion_dons.csproj|solutionrelative:gestion_dons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 188,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Menu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\PL\\Menu.Designer.cs",
+              "RelativeDocumentMoniker": "gestion_dons\\PL\\Menu.Designer.cs",
+              "ToolTip": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\PL\\Menu.Designer.cs",
+              "RelativeToolTip": "gestion_dons\\PL\\Menu.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T22:27:56.421Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "USR_LIST_BESOIN.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\PL\\USR_LIST_BESOIN.cs",
+              "RelativeDocumentMoniker": "gestion_dons\\PL\\USR_LIST_BESOIN.cs",
+              "ToolTip": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\PL\\USR_LIST_BESOIN.cs [Conception]",
+              "RelativeToolTip": "gestion_dons\\PL\\USR_LIST_BESOIN.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:49:26.612Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "USR_LIST_Dons.cs",
+              "DocumentMoniker": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\PL\\USR_LIST_Dons.cs",
+              "RelativeDocumentMoniker": "gestion_dons\\PL\\USR_LIST_Dons.cs",
+              "ToolTip": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\PL\\USR_LIST_Dons.cs",
+              "RelativeToolTip": "gestion_dons\\PL\\USR_LIST_Dons.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:51:57.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "USR_LIST_Dons.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\PL\\USR_LIST_Dons.cs",
+              "RelativeDocumentMoniker": "gestion_dons\\PL\\USR_LIST_Dons.cs",
+              "ToolTip": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\PL\\USR_LIST_Dons.cs [Conception]",
+              "RelativeToolTip": "gestion_dons\\PL\\USR_LIST_Dons.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:47:33.111Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConBD.cs",
+              "DocumentMoniker": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\BL\\ConBD.cs",
+              "RelativeDocumentMoniker": "gestion_dons\\BL\\ConBD.cs",
+              "ToolTip": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\BL\\ConBD.cs",
+              "RelativeToolTip": "gestion_dons\\BL\\ConBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:26:17.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "gestion_dons",
+              "DocumentMoniker": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\gestion_dons.csproj",
+              "RelativeDocumentMoniker": "gestion_dons\\gestion_dons.csproj",
+              "ToolTip": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\gestion_dons.csproj",
+              "RelativeToolTip": "gestion_dons\\gestion_dons.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-01T19:51:50.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "gestion_dons.csproj",
+              "DocumentMoniker": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\gestion_dons.csproj",
+              "RelativeDocumentMoniker": "gestion_dons\\gestion_dons.csproj",
+              "ToolTip": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\gestion_dons.csproj",
+              "RelativeToolTip": "gestion_dons\\gestion_dons.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-30T12:57:01.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AjoutModifierUser.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\PL\\AjoutModifierUser.Designer.cs",
+              "RelativeDocumentMoniker": "gestion_dons\\PL\\AjoutModifierUser.Designer.cs",
+              "ToolTip": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\PL\\AjoutModifierUser.Designer.cs",
+              "RelativeToolTip": "gestion_dons\\PL\\AjoutModifierUser.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:57:00.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AjoutModifierUser.cs",
+              "DocumentMoniker": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\PL\\AjoutModifierUser.cs",
+              "RelativeDocumentMoniker": "gestion_dons\\PL\\AjoutModifierUser.cs",
+              "ToolTip": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\PL\\AjoutModifierUser.cs",
+              "RelativeToolTip": "gestion_dons\\PL\\AjoutModifierUser.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAtwKkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T08:31:40.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "USR_List_Utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\PL\\USR_List_Utilisateur.cs",
+              "RelativeDocumentMoniker": "gestion_dons\\PL\\USR_List_Utilisateur.cs",
+              "ToolTip": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\PL\\USR_List_Utilisateur.cs",
+              "RelativeToolTip": "gestion_dons\\PL\\USR_List_Utilisateur.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAkwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:23:03.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Connexion.cs",
+              "DocumentMoniker": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\PL\\Connexion.cs",
+              "RelativeDocumentMoniker": "gestion_dons\\PL\\Connexion.cs",
+              "ToolTip": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\PL\\Connexion.cs",
+              "RelativeToolTip": "gestion_dons\\PL\\Connexion.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T04:43:06.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\PL\\Menu.cs",
+              "RelativeDocumentMoniker": "gestion_dons\\PL\\Menu.cs",
+              "ToolTip": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\PL\\Menu.cs",
+              "RelativeToolTip": "gestion_dons\\PL\\Menu.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwC8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T22:20:37.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\Program.cs",
+              "RelativeDocumentMoniker": "gestion_dons\\Program.cs",
+              "ToolTip": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\Program.cs",
+              "RelativeToolTip": "gestion_dons\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T22:23:51.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AjoutModifierUser.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\PL\\AjoutModifierUser.cs",
+              "RelativeDocumentMoniker": "gestion_dons\\PL\\AjoutModifierUser.cs",
+              "ToolTip": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\PL\\AjoutModifierUser.cs [Conception]",
+              "RelativeToolTip": "gestion_dons\\PL\\AjoutModifierUser.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T08:02:27.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\PL\\Menu.cs",
+              "RelativeDocumentMoniker": "gestion_dons\\PL\\Menu.cs",
+              "ToolTip": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\PL\\Menu.cs [Conception]",
+              "RelativeToolTip": "gestion_dons\\PL\\Menu.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T22:04:55.703Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "USR_List_Utilisateur.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\PL\\USR_List_Utilisateur.cs",
+              "RelativeDocumentMoniker": "gestion_dons\\PL\\USR_List_Utilisateur.cs",
+              "ToolTip": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\PL\\USR_List_Utilisateur.cs [Conception]",
+              "RelativeToolTip": "gestion_dons\\PL\\USR_List_Utilisateur.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:11:55.034Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Connexion.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\PL\\Connexion.cs",
+              "RelativeDocumentMoniker": "gestion_dons\\PL\\Connexion.cs",
+              "ToolTip": "C:\\Users\\komsa\\source\\repos\\gestion_dons\\gestion_dons\\PL\\Connexion.cs [Conception]",
+              "RelativeToolTip": "gestion_dons\\PL\\Connexion.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T04:39:29.782Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
