@@ -74,5 +74,10 @@ namespace gestion_dons.PL
         {
 
         }
+
+        private void txtrecherche_Leave(object sender, EventArgs e)
+        {
+
+        }
     }
 }

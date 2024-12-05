@@ -30,10 +30,11 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Menu));
             panel1 = new Panel();
+            btnnotif = new Button();
             pnuBut = new Panel();
             btnmenu = new Button();
             btnDecon = new Button();
-            btnNotiv = new Button();
+            btnbesoin = new Button();
             btnStock = new Button();
             btnDons = new Button();
             btnuser = new Button();
@@ -56,10 +57,11 @@
             // panel1
             // 
             panel1.BackColor = Color.FromArgb(41, 39, 40);
+            panel1.Controls.Add(btnnotif);
             panel1.Controls.Add(pnuBut);
             panel1.Controls.Add(btnmenu);
             panel1.Controls.Add(btnDecon);
-            panel1.Controls.Add(btnNotiv);
+            panel1.Controls.Add(btnbesoin);
             panel1.Controls.Add(btnStock);
             panel1.Controls.Add(btnDons);
             panel1.Controls.Add(btnuser);
@@ -68,6 +70,23 @@
             panel1.Name = "panel1";
             panel1.Size = new Size(282, 745);
             panel1.TabIndex = 0;
+            // 
+            // btnnotif
+            // 
+            btnnotif.FlatAppearance.BorderSize = 0;
+            btnnotif.FlatAppearance.MouseDownBackColor = Color.FromArgb(178, 8, 55);
+            btnnotif.FlatAppearance.MouseOverBackColor = Color.FromArgb(178, 8, 74);
+            btnnotif.FlatStyle = FlatStyle.Flat;
+            btnnotif.Font = new Font("Century Gothic", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnnotif.ForeColor = SystemColors.ControlLight;
+            btnnotif.Image = (Image)resources.GetObject("btnnotif.Image");
+            btnnotif.ImageAlign = ContentAlignment.MiddleLeft;
+            btnnotif.Location = new Point(13, 534);
+            btnnotif.Name = "btnnotif";
+            btnnotif.Size = new Size(247, 58);
+            btnnotif.TabIndex = 10;
+            btnnotif.Text = "  Notifications";
+            btnnotif.UseVisualStyleBackColor = true;
             // 
             // pnuBut
             // 
@@ -111,23 +130,23 @@
             btnDecon.UseVisualStyleBackColor = true;
             btnDecon.Click += btnDecon_Click;
             // 
-            // btnNotiv
+            // btnbesoin
             // 
-            btnNotiv.FlatAppearance.BorderSize = 0;
-            btnNotiv.FlatAppearance.MouseDownBackColor = Color.FromArgb(178, 8, 55);
-            btnNotiv.FlatAppearance.MouseOverBackColor = Color.FromArgb(178, 8, 74);
-            btnNotiv.FlatStyle = FlatStyle.Flat;
-            btnNotiv.Font = new Font("Century Gothic", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnNotiv.ForeColor = SystemColors.ControlLight;
-            btnNotiv.Image = (Image)resources.GetObject("btnNotiv.Image");
-            btnNotiv.ImageAlign = ContentAlignment.MiddleLeft;
-            btnNotiv.Location = new Point(3, 457);
-            btnNotiv.Name = "btnNotiv";
-            btnNotiv.Size = new Size(247, 58);
-            btnNotiv.TabIndex = 7;
-            btnNotiv.Text = "  Notifications";
-            btnNotiv.UseVisualStyleBackColor = true;
-            btnNotiv.Click += btnNotiv_Click;
+            btnbesoin.FlatAppearance.BorderSize = 0;
+            btnbesoin.FlatAppearance.MouseDownBackColor = Color.FromArgb(178, 8, 55);
+            btnbesoin.FlatAppearance.MouseOverBackColor = Color.FromArgb(178, 8, 74);
+            btnbesoin.FlatStyle = FlatStyle.Flat;
+            btnbesoin.Font = new Font("Century Gothic", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnbesoin.ForeColor = SystemColors.ControlLight;
+            btnbesoin.Image = (Image)resources.GetObject("btnbesoin.Image");
+            btnbesoin.ImageAlign = ContentAlignment.MiddleLeft;
+            btnbesoin.Location = new Point(12, 449);
+            btnbesoin.Name = "btnbesoin";
+            btnbesoin.Size = new Size(247, 58);
+            btnbesoin.TabIndex = 7;
+            btnbesoin.Text = "  Besoins";
+            btnbesoin.UseVisualStyleBackColor = true;
+            btnbesoin.Click += btnNotiv_Click;
             // 
             // btnStock
             // 
@@ -364,7 +383,7 @@
         private Panel panel1;
         private Panel panel2;
         private Button btnuser;
-        private Button btnNotiv;
+        private Button btnbesoin;
         private Button btnStock;
         private Button btnDons;
         private Button btnDecon;
@@ -380,5 +399,6 @@
         private Button btnred;
         private Button btnFerme;
         private Panel pnlAffichage;
+        private Button btnnotif;
     }
 }

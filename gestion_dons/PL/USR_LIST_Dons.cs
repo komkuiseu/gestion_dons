@@ -31,6 +31,34 @@ namespace gestion_dons.PL
         {
             InitializeComponent();
         }
+
+        private void txtrecherche_Enter(object sender, EventArgs e)
+        {
+            if (txtrecherche.Text == "Recherche")
+            {
+                txtrecherche.Text = "";
+                txtrecherche.ForeColor = Color.Black;
+            }
+        }
+
+        private void txtrecherche_Leave(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnajouterdons_Click(object sender, EventArgs e)
+        {
+            PL.AjoutModifierDons ajou = new PL.AjoutModifierDons();
+            ajou.ShowDialog();
+        }
+
+        private void btnmodif_Click(object sender, EventArgs e)
+        {
+            PL.AjoutModifierDons modif = new PL.AjoutModifierDons();
+            modif.lbltitre.Text = "Modifier Dons";
+            modif.btnactu.Visible = false;
+            modif.ShowDialog();
+        }
     }
 
 }

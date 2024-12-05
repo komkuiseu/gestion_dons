@@ -111,3 +111,8 @@ C:\Users\komsa\source\repos\Gestion_Dons\gestion_dons\obj\Debug\net9.0-windows8.
 C:\Users\komsa\source\repos\Gestion_Dons\gestion_dons\obj\Debug\net9.0-windows8.0\gestion_dons.pdb
 C:\Users\komsa\source\repos\Gestion_Dons\gestion_dons\obj\Debug\net9.0-windows8.0\gestion_dons.genruntimeconfig.cache
 C:\Users\komsa\source\repos\Gestion_Dons\gestion_dons\obj\Debug\net9.0-windows8.0\ref\gestion_dons.dll
+C:\Users\komsa\source\repos\gestion_dons\gestion_dons\obj\Debug\net9.0-windows8.0\gestion_dons.PL.USR_LIST_BESOIN.resources
+C:\Users\komsa\source\repos\gestion_dons\gestion_dons\obj\Debug\net9.0-windows8.0\gestion_dons.sourcelink.json
+C:\Users\komsa\source\repos\gestion_dons\gestion_dons\obj\Debug\net9.0-windows8.0\gestion_dons.PL.AjoutModifierDons.resources
+C:\Users\komsa\source\repos\gestion_dons\gestion_dons\obj\Debug\net9.0-windows8.0\gestion_dons.PL.AjouterModifierBesoin.resources
+C:\Users\komsa\source\repos\gestion_dons\gestion_dons\obj\Debug\net9.0-windows8.0\gestion_dons.PL.USR_STOCK_SANG.resources

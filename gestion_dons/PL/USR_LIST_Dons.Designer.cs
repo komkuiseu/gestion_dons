@@ -46,6 +46,9 @@
             btnmodif = new Button();
             btnajouterdons = new Button();
             button1 = new Button();
+            btnexcel = new Button();
+            btnimptt = new Button();
+            btnimpcocher = new Button();
             ((System.ComponentModel.ISupportInitialize)dgbuser).BeginInit();
             SuspendLayout();
             // 
@@ -75,7 +78,7 @@
             dataGridViewCellStyle2.BackColor = Color.FromArgb(224, 224, 224);
             dataGridViewCellStyle2.Font = new Font("Microsoft Sans Serif", 10.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
             dgbuser.RowsDefaultCellStyle = dataGridViewCellStyle2;
-            dgbuser.Size = new Size(1137, 473);
+            dgbuser.Size = new Size(1137, 454);
             dgbuser.TabIndex = 17;
             // 
             // Column1
@@ -119,7 +122,7 @@
             cmbrecherche.DropDownStyle = ComboBoxStyle.DropDownList;
             cmbrecherche.Font = new Font("Segoe UI", 15F);
             cmbrecherche.FormattingEnabled = true;
-            cmbrecherche.Items.AddRange(new object[] { "nom", "prenom", "adress", "groupeSanguin" });
+            cmbrecherche.Items.AddRange(new object[] { "nom", "Lieu", "date", "quantité", "Grp sanguin" });
             cmbrecherche.Location = new Point(315, 118);
             cmbrecherche.Name = "cmbrecherche";
             cmbrecherche.Size = new Size(289, 43);
@@ -146,6 +149,8 @@
             txtrecherche.TabIndex = 14;
             txtrecherche.Text = "Recherche";
             txtrecherche.TextAlign = HorizontalAlignment.Center;
+            txtrecherche.Enter += txtrecherche_Enter;
+            txtrecherche.Leave += txtrecherche_Leave;
             // 
             // panel2
             // 
@@ -170,6 +175,8 @@
             btnmodif.Anchor = AnchorStyles.Top;
             btnmodif.BackColor = Color.FromArgb(33, 28, 48);
             btnmodif.FlatAppearance.BorderSize = 0;
+            btnmodif.FlatAppearance.MouseDownBackColor = Color.FromArgb(128, 128, 255);
+            btnmodif.FlatAppearance.MouseOverBackColor = Color.FromArgb(255, 192, 192);
             btnmodif.FlatStyle = FlatStyle.Flat;
             btnmodif.Font = new Font("Segoe UI Semibold", 13.8F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
             btnmodif.ForeColor = SystemColors.ControlLight;
@@ -181,11 +188,14 @@
             btnmodif.TabIndex = 11;
             btnmodif.Text = "Modifier";
             btnmodif.UseVisualStyleBackColor = false;
+            btnmodif.Click += btnmodif_Click;
             // 
             // btnajouterdons
             // 
             btnajouterdons.BackColor = Color.FromArgb(33, 28, 48);
             btnajouterdons.FlatAppearance.BorderSize = 0;
+            btnajouterdons.FlatAppearance.MouseDownBackColor = Color.FromArgb(128, 128, 255);
+            btnajouterdons.FlatAppearance.MouseOverBackColor = Color.FromArgb(255, 192, 192);
             btnajouterdons.FlatStyle = FlatStyle.Flat;
             btnajouterdons.Font = new Font("Segoe UI Semibold", 13.8F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
             btnajouterdons.ForeColor = SystemColors.ControlLight;
@@ -197,12 +207,15 @@
             btnajouterdons.TabIndex = 9;
             btnajouterdons.Text = "Ajouter";
             btnajouterdons.UseVisualStyleBackColor = false;
+            btnajouterdons.Click += btnajouterdons_Click;
             // 
             // button1
             // 
             button1.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             button1.BackColor = Color.FromArgb(33, 28, 48);
             button1.FlatAppearance.BorderSize = 0;
+            button1.FlatAppearance.MouseDownBackColor = Color.FromArgb(128, 128, 255);
+            button1.FlatAppearance.MouseOverBackColor = Color.FromArgb(255, 192, 192);
             button1.FlatStyle = FlatStyle.Flat;
             button1.Font = new Font("Segoe UI Semibold", 13.8F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
             button1.ForeColor = SystemColors.ControlLight;
@@ -215,10 +228,70 @@
             button1.Text = "Supprimer";
             button1.UseVisualStyleBackColor = false;
             // 
+            // btnexcel
+            // 
+            btnexcel.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
+            btnexcel.BackColor = Color.FromArgb(33, 28, 48);
+            btnexcel.FlatAppearance.BorderSize = 0;
+            btnexcel.FlatAppearance.MouseDownBackColor = Color.FromArgb(128, 128, 255);
+            btnexcel.FlatAppearance.MouseOverBackColor = Color.FromArgb(255, 192, 192);
+            btnexcel.FlatStyle = FlatStyle.Flat;
+            btnexcel.Font = new Font("Segoe UI Semibold", 13.8F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            btnexcel.ForeColor = SystemColors.ControlLight;
+            btnexcel.Image = (Image)resources.GetObject("btnexcel.Image");
+            btnexcel.ImageAlign = ContentAlignment.MiddleLeft;
+            btnexcel.Location = new Point(803, 645);
+            btnexcel.Name = "btnexcel";
+            btnexcel.Size = new Size(312, 57);
+            btnexcel.TabIndex = 21;
+            btnexcel.Text = "sauvegarder dans excel";
+            btnexcel.UseVisualStyleBackColor = false;
+            // 
+            // btnimptt
+            // 
+            btnimptt.Anchor = AnchorStyles.Bottom;
+            btnimptt.BackColor = Color.FromArgb(33, 28, 48);
+            btnimptt.FlatAppearance.BorderSize = 0;
+            btnimptt.FlatAppearance.MouseDownBackColor = Color.FromArgb(128, 128, 255);
+            btnimptt.FlatAppearance.MouseOverBackColor = Color.FromArgb(255, 192, 192);
+            btnimptt.FlatStyle = FlatStyle.Flat;
+            btnimptt.Font = new Font("Segoe UI Semibold", 13.8F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            btnimptt.ForeColor = SystemColors.ControlLight;
+            btnimptt.Image = (Image)resources.GetObject("btnimptt.Image");
+            btnimptt.ImageAlign = ContentAlignment.MiddleLeft;
+            btnimptt.Location = new Point(446, 645);
+            btnimptt.Name = "btnimptt";
+            btnimptt.Size = new Size(268, 57);
+            btnimptt.TabIndex = 20;
+            btnimptt.Text = "imprimer toutes";
+            btnimptt.UseVisualStyleBackColor = false;
+            // 
+            // btnimpcocher
+            // 
+            btnimpcocher.Anchor = AnchorStyles.Bottom | AnchorStyles.Left;
+            btnimpcocher.BackColor = Color.FromArgb(33, 28, 48);
+            btnimpcocher.FlatAppearance.BorderSize = 0;
+            btnimpcocher.FlatAppearance.MouseDownBackColor = Color.FromArgb(128, 128, 255);
+            btnimpcocher.FlatAppearance.MouseOverBackColor = Color.FromArgb(255, 192, 192);
+            btnimpcocher.FlatStyle = FlatStyle.Flat;
+            btnimpcocher.Font = new Font("Segoe UI Semibold", 13.8F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            btnimpcocher.ForeColor = SystemColors.ControlLight;
+            btnimpcocher.Image = (Image)resources.GetObject("btnimpcocher.Image");
+            btnimpcocher.ImageAlign = ContentAlignment.MiddleLeft;
+            btnimpcocher.Location = new Point(27, 645);
+            btnimpcocher.Name = "btnimpcocher";
+            btnimpcocher.Size = new Size(268, 57);
+            btnimpcocher.TabIndex = 19;
+            btnimpcocher.Text = "imprimer Pr  cocher";
+            btnimpcocher.UseVisualStyleBackColor = false;
+            // 
             // USR_LIST_Dons
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            Controls.Add(btnexcel);
+            Controls.Add(btnimptt);
+            Controls.Add(btnimpcocher);
             Controls.Add(button1);
             Controls.Add(dgbuser);
             Controls.Add(cmbrecherche);
@@ -252,5 +325,8 @@
         private DataGridViewTextBoxColumn Column4;
         private DataGridViewTextBoxColumn Column5;
         private DataGridViewTextBoxColumn Column6;
+        private Button btnexcel;
+        private Button btnimptt;
+        private Button btnimpcocher;
     }
 }

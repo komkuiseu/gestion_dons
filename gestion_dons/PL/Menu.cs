@@ -77,11 +77,32 @@ namespace gestion_dons.PL
         private void btnStock_Click(object sender, EventArgs e)
         {
             pnuBut.Top = btnStock.Top;
+            if (!pnlAffichage.Controls.Contains(USR_STOCK_SANG.Instance))
+            {
+                pnlAffichage.Controls.Add(USR_STOCK_SANG.Instance);
+                USR_STOCK_SANG.Instance.Dock = DockStyle.Fill;
+                USR_STOCK_SANG.Instance.BringToFront();
+            }
+            else
+            {
+                USR_LIST_BESOIN.Instance.BringToFront();
+            }
         }
 
         private void btnNotiv_Click(object sender, EventArgs e)
         {
-            pnuBut.Top = btnNotiv.Top;
+            pnuBut.Top = btnbesoin.Top;
+            if (!pnlAffichage.Controls.Contains(USR_LIST_BESOIN.Instance))
+            {
+                pnlAffichage.Controls.Add(USR_LIST_BESOIN.Instance);
+                USR_LIST_BESOIN.Instance.Dock = DockStyle.Fill;
+                USR_LIST_BESOIN.Instance.BringToFront();
+            }
+            else
+            {
+                USR_LIST_BESOIN.Instance.BringToFront();
+            }
+
         }
 
         private void button1_Click(object sender, EventArgs e)
