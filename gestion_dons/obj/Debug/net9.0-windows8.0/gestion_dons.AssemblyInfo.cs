@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gestion_dons")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef1b696bc74fdd7a275db6a521f53aaadfda90c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b90bf6de4021a640e81ee2bb89a98be0ed5c37a")]
 [assembly: System.Reflection.AssemblyProductAttribute("gestion_dons")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gestion_dons")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
